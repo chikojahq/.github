@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/chikojahq/chikoja/main/brand/logo.svg" width="96" alt="chikoja logo" align="right">
+<p align="center"><img src="https://raw.githubusercontent.com/chikojahq/chikoja/main/brand/logo.svg" width="112" alt="chikoja logo"></p>
 
 # chikoja — چی‌کجا
 
