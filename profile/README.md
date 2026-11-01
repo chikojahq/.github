@@ -13,7 +13,7 @@ When the internet is shut down or throttled, online maps fail exactly when peopl
 
 **Status:** being rebuilt (November 2026). Until then [chikoja.ir](https://chikoja.ir) shows a notice about the original chikoja, a directory of places that ran from about 2013 to 2015.
 
-Code, plan and issues: [chikojahq/chikoja](https://github.com/chikojahq/chikoja) ([plan](https://github.com/chikojahq/chikoja/blob/main/docs/PLAN.md)). Contact: chikojahq@gmail.com
+Code and issues: [chikojahq/chikoja](https://github.com/chikojahq/chikoja). Contact: chikojahq@gmail.com
 
 <div dir="rtl">
 
